@@ -1,7 +1,7 @@
 ### Hi, I'm Ankur!
 
-✨ Passionate and dedicated learner with a strong drive for personal and professional growth, actively seeking opportunities to level up skills and contribute positively to a dynamic work environment
-
+✨ Passionate and dedicated learner with a strong drive for personal and professional growth.
+- 🌱 currently learning ...
 - 👀 Intrested In: Python Full Stack Development
 - 📫 How to reach me: ghodakiyaankur10@gmail.com
 
