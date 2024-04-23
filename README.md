@@ -1,6 +1,9 @@
 ### Hi, i'm Ankur!
 
-- 📫 How to reach me: ghodakiyaankur10@gmail.com
+Passionate and dedicated learner with a strong drive for personal and professional growth, actively seeking opportunities to level up skills and contribute positively to a dynamic work environment
+
+👀 Intrested In: Python Full Stack Development
+📫 How to reach me: ghodakiyaankur10@gmail.com
 
 
 <!--
