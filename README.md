@@ -1,8 +1,8 @@
 ### Hi, I'm Ankur!
 
 ✨ Passionate and dedicated learner with a strong drive for personal and professional growth.
-- 🌱 currently learning ...
-- 👀 Intrested In: Python Full Stack Development
+- 🌱 currently learning Django & React js
+- 👀 Intrested In: Python Full Stack Development & Trading
 - 📫 How to reach me: ghodakiyaankur10@gmail.com
 
 
