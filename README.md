@@ -2,7 +2,7 @@
 
 ✨ Passionate and dedicated learner with a strong drive for personal and professional growth.
 - 🌱 currently learning Django & React js
-- 👀 Intrested In: Python Full Stack Development & Trading
+- 👀 Intrested In: Python Full Stack Development
 - 📫 How to reach me: ghodakiyaankur10@gmail.com
 
 
